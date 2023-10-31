@@ -1,0 +1,13 @@
+2   // Number of states
+2   // Number of variables
+1   // Number of goal states
+q1 q2   // States
+q2     // Goal state(s)
+a b    // Variables
+q1 a q1   // State transition: q1 --(a)--> q1
+q1 b q2   // State transition: q1 --(b)--> q2
+q2 a q2   // State transition: q2 --(a)--> q2
+q2 b q1   // State transition: q2 --(b)--> q1
+aba   // String to be detected
+ababababa   // String to be detected
+
