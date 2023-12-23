@@ -1,0 +1,21 @@
+4
+3
+1
+6
+q1 q2 q3 q4 q5 q6
+q1
+q6
+X Y Z
+X
+a b c d
+q1 ε ε X q2
+q2 a ε Y q2
+q2 b Y ε q3
+q3 b Y ε q3
+q3 c ε Z q4
+q4 c ε Z q4
+q4 d Z ε q5
+q5 d Z ε q5
+q5 ε X ε q6
+aabbcccddd
+abcccdddd

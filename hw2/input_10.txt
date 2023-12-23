@@ -1,0 +1,23 @@
+3
+2
+1
+8
+q1 q2 q3 q4 q5 q6 q7 q8
+q1
+q8
+X 1
+X
+a b
+q1 ε ε X q2
+q2 a ε 1 q3
+q2 ε ε ε q4
+q3 ε ε 1 q2
+q4 b ε 1 q5
+q4 ε ε ε q7
+q5 ε ε 1 q6
+q6 ε ε 1 q4
+q7 c 1 ε q7
+q7 ε X ε q8
+abccccc
+aabbcccccccccc
+abc

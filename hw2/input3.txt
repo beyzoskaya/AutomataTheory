@@ -1,0 +1,20 @@
+3
+2
+1
+5
+q1 q2 q3 q4 q5
+q1
+q1 q5
+X Y
+X
+a b c
+q1 ε ε X q2
+q2 a ε Y q2
+q2 b ε Y q3
+q3 b ε Y q3
+q3 c Y ε q4
+q4 c Y ε q4
+q4 ε X ε q5
+aabbcccc
+aabbbccccc
+abcccc
